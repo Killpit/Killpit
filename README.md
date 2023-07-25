@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **BlockScraper, Mobile NFT Marketplace Dapp**
 
-- 🌱 I’m currently learning **OpenCV,**
+- 🌱 I’m currently learning **OpenCV,skimage, ndimage, kornia**
 
 - 👯 I’m looking to collaborate on **BlockScraper**
 
-- 🤝 I’m looking for help with **language models,**
+- 🤝 I’m looking for help with **language models, cloud engineering, data engineering**
 
 - 💬 Ask me about **Blockchain development in Ethereum, Avalanche, Polygon and Solana. Mobile development in Flutter. Data science, deep learning and machine learning**
 
