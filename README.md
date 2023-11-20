@@ -1,21 +1,21 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ata Tekeli</h1>
-<h3 align="center">Blockchain engineer and data scientist specialising in computer vision.</h3>
+<h3 align="center">DevOps engineer with experience in data science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killpit&label=Profile%20views&color=0e75b6&style=flat" alt="killpit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killpit" alt="killpit" /></a> </p>
 
-- 🔭 I’m currently working on **BlockScraper, Mobile NFT Marketplace Dapp**
+- 🔭 I’m currently working on **BlockScraper, Arduino SDK on Solana**
 
-- 🌱 I’m currently learning **OpenCV,skimage, ndimage, kornia**
+- 🌱 I’m currently learning **Jenkins,Ansible, Terraform, Arduino**
 
 - 👯 I’m looking to collaborate on **BlockScraper**
 
 - 🤝 I’m looking for help with **language models, cloud engineering, data engineering**
 
-- 💬 Ask me about **Blockchain development in Ethereum, Avalanche, Polygon and Solana. Mobile development in Flutter. Data science, deep learning and machine learning**
+- 💬 Ask me about **Blockchain development in Ethereum, Avalanche, Polygon and Solana. Mobile development in Flutter. Data science, deep learning, DevOps, Kubernetes, Docker, AWS and machine learning**
 
 - 📫 How to reach me **tekeliata2000@gmail.com**
 
