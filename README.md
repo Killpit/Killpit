@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/atatekeli" target="blank"><img src="https://img.shields.io/twitter/follow/atatekeli?logo=twitter&style=for-the-badge" alt="atatekeli" /></a> </p>
 
-- 🔭 I’m currently working on **BlockScraper, Arduino SDK on Solana**
+- 🔭 I’m currently working on **BlockScraper, Arduino SDK on Solana and creating a public course on Google Cloud**
 
-- 🌱 I’m currently learning **Jenkins,Ansible, Terraform, Arduino**
+- 🌱 I’m currently learning **Jenkins,Ansible, Terraform, Arduino, Google Cloud**
 
 - 👯 I’m looking to collaborate on **BlockScraper**
 
