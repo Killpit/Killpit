@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **BlockScraper**
 
-- 🤝 I’m looking for help with **language models, cloud engineering, data engineering**
+- 🤝 I’m looking for help with **language models, cloud engineering, data engineering and full-stack web development**
 
-- 💬 Ask me about **Blockchain development in Ethereum, Avalanche, Polygon and Solana. Mobile development in Flutter. Data science, deep learning, DevOps, Kubernetes, Docker, AWS and machine learning**
+- 💬 Ask me about **Blockchain development in Ethereum, Avalanche, Polygon and Solana. Mobile development in Flutter. Data science, deep learning, DevOps, DevSecOps, Kubernetes, Docker, AWS and machine learning**
 
 - 📫 How to reach me **tekeliata2000@gmail.com**
 
