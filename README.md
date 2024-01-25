@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ata Tekeli</h1>
-<h3 align="center">DevOps engineer with data science and software engineering experience</h3>
+<h3 align="center">DevOps engineer with 2 years of data science and software engineering experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killpit&label=Profile%20views&color=0e75b6&style=flat" alt="killpit" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **BlockScraper, Arduino SDK on Solana and creating a public course on Google Cloud**
 
-- 🌱 I’m currently learning **Jenkins,Ansible, Terraform, Arduino, Google Cloud**
+- 🌱 I’m currently learning **Arduino, Google Cloud**
 
 - 👯 I’m looking to collaborate on **BlockScraper**
 
-- 🤝 I’m looking for help with **language models, cloud engineering, data engineering and full-stack web development**
+- 🤝 I’m looking for help with **DevSecOps**
 
-- 💬 Ask me about **Blockchain development in Ethereum, Avalanche, Polygon and Solana. Mobile development in Flutter. Data science, deep learning, DevOps, DevSecOps, Kubernetes, Docker, AWS and machine learning**
+- 💬 Ask me about **DevOps, DevSecOps, Kubernetes, Docker, cloud native**
 
 - 📫 How to reach me **tekeliata2000@gmail.com**
 
