@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ata Tekeli</h1>
-<h3 align="center">DevOps engineer with 2 years of data science and software engineering experience</h3>
+<h3 align="center">Junior DevOps engineer with data science and software engineering experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killpit&label=Profile%20views&color=0e75b6&style=flat" alt="killpit" /> </p>
 
