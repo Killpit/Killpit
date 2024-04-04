@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killpit" alt="killpit" /></a> </p>
 
-- 🔭 I’m currently working on **BlockScraper, Arduino SDK on Solana and creating a public course on Google Cloud**
+- 🔭 I’m currently working on **BlockScraper, DevSecOps and creating a public course on blockchain for cloud.**
 
-- 🌱 I’m currently learning **Google Cloud, Microsoft Azure**
+- 🌱 I’m currently learning **Elastic Stack, Terraform for GCP and contributing to large projects**
 
-- 👯 I’m looking to collaborate on **BlockScraper**
+- 👯 I’m looking to collaborate on **BlockScraper, open-source contributing**
 
-- 🤝 I’m looking for help with **DevSecOps**
+- 🤝 I’m looking for help with **open-source contributing, collaborations and mentorship**
 
 - 💬 Ask me about **DevOps, DevSecOps, Kubernetes, Docker, cloud native**
 
