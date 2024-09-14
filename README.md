@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **BlockScraper, DevSecOps and creating a public course on blockchain for cloud.**
 
-- 🌱 I’m currently learning **Elastic Stack, Terraform for GCP and contributing to large projects**
+- 🌱 I’m currently learning **Elastic Stack, Terraform for GCP, OpenShift and contributing to large projects**
 
 - 👯 I’m looking to collaborate on **BlockScraper, open-source contributing**
 
@@ -18,6 +18,8 @@
 - 📫 How to reach me **tekeliata2000@gmail.com**
 
 - ⚡ Fun fact **I'm self-taught**
+
+- **Contributing to**: Anza, Espressocash, Triton, Trustless Engineering, ZKM, Clave and Giza
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
